@@ -1,0 +1,22 @@
+{
+  "name": "modmanager-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ."
+  },
+  "author": "reddust9",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.2.0",
+    "axios": "^1.2.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^18.11.15",
+    "typescript": "^4.9.4"
+  }
+}
