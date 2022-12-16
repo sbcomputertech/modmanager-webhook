@@ -7,8 +7,8 @@ If you want to run the project, create a `secrets.json` file, and add
 ```json
 {
     "discord-webhooks": [
-        "<Discord webhook 1>",
-        "<Discord webhook 2>"
+        "<Discord webhook url 1>",
+        "<Discord webhook url 2>"
     ],
     "pastebin-apikey": "<Pastebin API key>"
 }
