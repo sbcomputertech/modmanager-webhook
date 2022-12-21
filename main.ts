@@ -99,4 +99,5 @@ function init_supabase_realtime() {
         .subscribe()
 }
 
+console.log("loaded!")
 init_supabase_realtime()
