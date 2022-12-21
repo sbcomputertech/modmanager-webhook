@@ -1,5 +1,7 @@
 # npm
 package-lock.json
 node_modules
+# tsc
+*.js*
 # secrets
 secrets.json
